@@ -1,11 +1,14 @@
 ---
-title: 'Peter Van Eijk'
-image: '/images/team/peter-van-eijk-711986-unsplash.jpg'
-jobtitle: 'Director'
-email: 'peter@test.com'
-linkedinurl: 'https://www.linkedin.com/'
+title: 'Mahesh Attarde'
+image: '/images/team/mahesh.jpeg'
+jobtitle: 'Engineer[0]'
+email: 'mahesh.iiith@gm****.com'
+linkedinurl: 'https://in.linkedin.com/in/maheshattarde'
 ---
+5+ Year Quality Experience in building software from scratch.
+Hands on Compiler technologies LLVM for GPU,Emulation for FPGA.
+IIIT Hyderbad Alumnus. 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 
-Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+
+
